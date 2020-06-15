@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-deploy-test"
+    }
+  },
+  "defaultProject": "angular-deploy-test",
+  "cli": {
+    "analytics": "053e600b-622e-4424-91ec-1b386407ed6a"
+  }
 }
